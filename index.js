@@ -3,10 +3,10 @@ function add(a, b) {
 }
 
 function subtract(a, b) {
-  return a - b;
+  return b - a;
 }
 
-function miltiply(a, b) {
+function multiply(a, b) {
   return a * b;
 }
 
